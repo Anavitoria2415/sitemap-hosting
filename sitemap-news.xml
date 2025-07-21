@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+  <url>
+    <loc>https://4xmomy.blogspot.com/2025/07/3-ideias-de-almoco-economico-e-saudavel.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>4X Mommy</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-21</news:publication_date>
+      <news:title>3 Ideias de Almoço Econômico e Saudável</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://4xmomy.blogspot.com/2025/07/bolinho-de-chuva-da-vovo-5-variacoes.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>4X Mommy</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-21</news:publication_date>
+      <news:title>Bolinho de Chuva da Vovó: 5 Variações</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://4xmomy.blogspot.com/2025/07/7-pratos-faceis-e-deliciosos-para-dias.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>4X Mommy</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-21</news:publication_date>
+      <news:title>7 Pratos Fáceis e Deliciosos para Dias Frios</news:title>
+    </news:news>
+  </url>
+
+</urlset>
